@@ -26,6 +26,8 @@
 <a href="https://play.google.com/store/apps/details?id=com.mycampusmate.rmate&hl=en_US" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/google-play-store.svg" alt="https://play.google.com/store/apps/details?id=com.mycampusmate.rmate&hl=en_US" height="30" width="30" /></a>
 <a href="https://apps.apple.com/us/app/rmate/id1418361482" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/app-store-1.svg" alt="https://apps.apple.com/us/app/rmate/id1418361482" height="30" width="30" /></a>
 
+---
+
 <details>
   <summary>:zap: Github Stats</summary>
   <img alt="rheng001's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rheng001&show_icons=true&hide_border=true" />
