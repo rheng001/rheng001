@@ -23,8 +23,8 @@
 
 ### Check out my app called RMate made for UCR Students!:
 
-[<img align="left" alt="https://play.google.com/store/apps/details?id=com.mycampusmate.rmate&hl=en_US" width="22px" src="https://cdn.worldvectorlogo.com/logos/google-play-store.svg" />][website]
-[<img align="left" alt="https://apps.apple.com/us/app/rmate/id1418361482" width="22px" src="https://cdn.worldvectorlogo.com/logos/app-store-1.svg" />][website]
+<a href="https://play.google.com/store/apps/details?id=com.mycampusmate.rmate&hl=en_US" target="blank"><img align="left" src="https://cdn.worldvectorlogo.com/logos/google-play-store.svg" alt="https://play.google.com/store/apps/details?id=com.mycampusmate.rmate&hl=en_US" height="30" width="30" /></a>
+<a href="https://apps.apple.com/us/app/rmate/id1418361482" target="blank"><img align="left" src="https://cdn.worldvectorlogo.com/logos/app-store-1.svg" alt="https://apps.apple.com/us/app/rmate/id1418361482" height="30" width="30" /></a>
 
 <br />
 
