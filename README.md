@@ -26,18 +26,15 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Coding Language Summary</summary>
-
-  <img align="left" alt="rheng001's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rheng001&layout=compact&hide=html" />
-
-</details>
 
 <details>
   <summary>:zap: Github Stats</summary>
+  <img alt="rheng001's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rheng001&show_icons=true&hide_border=true" />
+</details>
 
-  <img align="left" alt="rheng001's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rheng001&show_icons=true&hide_border=true" />
-
+<details>
+  <summary>:zap: Coding Language Summary</summary>
+  <img align="left" alt="rheng001's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rheng001&layout=compact&hide=html" />
 </details>
 
 
