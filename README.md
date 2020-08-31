@@ -25,6 +25,11 @@
 <br />
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rheng001&show_icons=true" alt="rheng001" /></p>
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="rheng001's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rheng001&show_icons=true&hide_border=true" />
+
+</details>
 
 
