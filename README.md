@@ -1,10 +1,10 @@
 <h1 align="center">Hey there 👋, Im Richard</h1>
+<h3 align="center">A Freelance Front End Developer</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/richard-heng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="richard-heng" height="30" width="30" /></a>
 </p>
 
-<h3 align="center">A Freelance Front End Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rheng001" alt="rheng001" /> </p>
 
 - 🔭 I’m currently working on [RMate](https://www.mycampusmate.com/)
