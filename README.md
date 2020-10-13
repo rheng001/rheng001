@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, Im Richard</h1>
-<h3 align="center">A Freelance Front End Developer</h3>
+<h3 align="center">Freelance Front End Developer</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/richard-heng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="richard-heng" height="30" width="30" /></a>
@@ -14,8 +14,6 @@
 - 💬 Ask me about **javascript, react, and react native**
 
 - 📫 How to reach me **rheng001@gmail.com**
-
-- ⚡ Fun fact **I am a full stack engineer which means if you give me one more task my stack will overflow!**
 
 ### Languages and Tools:
 
