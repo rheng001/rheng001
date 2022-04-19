@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rheng001" alt="rheng001" /> </p>
 
-- 🔭 I’m currently working on [RMate](https://www.mycampusmate.com/)
+- 🔭 I’m currently looking for work.
 
 - 👨‍💻 All of my projects are available at [http://richardheng.me/](http://richardheng.me/)
 
