@@ -7,8 +7,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rheng001" alt="rheng001" /> </p>
 
-- 🔭 I’m currently looking for work.
-
 - 👨‍💻 All of my projects are available at [http://richardheng.me/](http://richardheng.me/)
 
 - 💬 Ask me about **javascript, react, and react native**
